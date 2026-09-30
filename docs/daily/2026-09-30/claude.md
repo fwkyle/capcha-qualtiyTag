@@ -37,3 +37,9 @@
 ## 5. 대화 전문 저장
 
 - `docs/2026-09-30_대화전문.md`: 이 세션의 사용자 메시지·Claude 답변 원문과 답변 사이 실행 작업 목록. 세션 기록 파일(jsonl)에서 자동 변환했다. 도구 결과 원문·사고 과정·스킬 본문은 뺐다.
+
+## 6. git 설정과 GitHub 공개 레포 생성
+
+- `git init -b main`, `.gitignore`(`.DS_Store`, `.rottie/`, `.staging/`, `.trash/`). 올리기 전 비밀키 문자열 검색: 없음.
+- 개인 계정 공개 레포 생성: https://github.com/fwkyle/capcha-qualtiyTag (kyle 선택). 개인 계정 아이디는 `ChickenBreast-ky`에서 `fwkyle`로 바뀌어 있었다(gh 로그인 목록에는 옛 이름으로 표시됨). 커밋 작성자는 `fwkyle <cv271010@gmail.com>`(레포 로컬 설정).
+- 다른 세션이 만든 생활용품 가이드북 분해 자료(`docs/국가 문서/생활용품 표시사항 작성 가이드북/`)와 팀 전달 자료(`기존자료/`, 팀원 이름 포함)도 함께 공개됐다.
